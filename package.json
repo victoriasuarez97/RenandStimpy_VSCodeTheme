@@ -1,0 +1,37 @@
+{
+  "publisher": "Victoria Stefania Suarez",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ren and Stimpy color palette",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ren and Stimpy Color Palette-color-theme.json"
+      }
+    ]
+  },
+  "displayName": "Ren and Stimpy Color Palette",
+  "name": "RenandStimpy_VSCodeTheme",
+  "version": "1.0.0",
+  "description": "This is a theme created for VSCode using the color palette of TV Show Ren &amp; Stimpy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoriasuarez97/RenandStimpy_VSCodeTheme.git"
+  },
+  "keywords": [],
+  "author": "Victoria Stefania Suárez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victoriasuarez97/RenandStimpy_VSCodeTheme/issues"
+  },
+  "homepage": "https://github.com/victoriasuarez97/RenandStimpy_VSCodeTheme#readme"
+}
