@@ -1,16 +1,21 @@
 {
     "workbench.colorCustomizations": {
         "activityBar.background": "#09001C",
-        "activityBarBadge.background": "#ff0000",
         "activityBar.activeFocusBorder": "#3E0AAB",
+        "activityBar.activeBorder": "#3E0AAB",
+        "activityBarBadge.foreground": "#3E0AAB",
+        "activityBar.foreground": "#7436f8",
         "tab.activeBackground": "#09001C",
         "tab.inactiveBackground": "#04000C",
         "editor.background": "#09001C",
         "menu.background": "#3E0AAB",
         "sideBar.background": "#04000C",
+        "sideBarSectionHeader.background": "#09001C",
         "terminal.background": "#04000C",
         "minimap.background": "#09001C",
-        "button.background": "#3E0AAB"
+        "button.background": "#3E0AAB",
+        "extensionButton.prominentBackground": "#EB71B6",
+        "statusBar.background": "#2968C7"
     },
     "editor.tokenColorCustomizations": {
         "textMateRules": [{
@@ -70,6 +75,4 @@
                     "foreground": "#a480f3"
                 }
             }
-        ]
-    }
-}
+        }
