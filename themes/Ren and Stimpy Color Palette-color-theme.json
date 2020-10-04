@@ -1,0 +1,75 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#09001C",
+        "activityBarBadge.background": "#ff0000",
+        "activityBar.activeFocusBorder": "#3E0AAB",
+        "tab.activeBackground": "#09001C",
+        "tab.inactiveBackground": "#04000C",
+        "editor.background": "#09001C",
+        "menu.background": "#3E0AAB",
+        "sideBar.background": "#04000C",
+        "terminal.background": "#04000C",
+        "minimap.background": "#09001C",
+        "button.background": "#3E0AAB"
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [{
+                "name": "Comment and Punctuation Settings",
+                "scope": [
+                    "comment",
+                    "punctuation.definition.tag.begin.html",
+                    "punctuation.definition.tag.end.html"
+                ],
+                "settings": {
+                    "foreground": "#eb71b696",
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "name": "HTML Entity Tag Settings",
+                "scope": ["entity.name.tag.html"],
+                "settings": {
+                    "foreground": "#E52721"
+                }
+            },
+            {
+                "name": "HTML Tag Attributes Settings",
+                "scope": ["entity.other.attribute-name"],
+                "settings": {
+                    "foreground": "#F0E0C0"
+                }
+            },
+            {
+                "name": "Strings",
+                "scope": ["string.quoted.double", "string.quoted.double punctuation"],
+                "settings": {
+                    "foreground": "#80aef3"
+                }
+            },
+            {
+                "name": "JS type",
+                "scope": ["storage.type.js"],
+                "settings": {
+                    "foreground": "#EB71B6"
+                }
+            },
+            {
+                "name": "JS variable type",
+                "scope": ["meta.var.expr.js"],
+                "settings": {
+                    "foreground": "#F0E0C0"
+                }
+            },
+            {
+                "name": "Json Properties",
+                "scope": [
+                    "support.type.property-name.json",
+                    "support.type.property-name.json punctuation"
+                ],
+                "settings": {
+                    "foreground": "#a480f3"
+                }
+            }
+        ]
+    }
+}
