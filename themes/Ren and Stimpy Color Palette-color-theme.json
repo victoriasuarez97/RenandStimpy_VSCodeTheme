@@ -15,7 +15,8 @@
         "minimap.background": "#09001C",
         "button.background": "#3E0AAB",
         "extensionButton.prominentBackground": "#EB71B6",
-        "statusBar.background": "#2968C7"
+        "statusBar.background": "#2968C7",
+        "titleBar.activeBackground": "#09001C"
     },
     "editor.tokenColorCustomizations": {
         "textMateRules": [{
