@@ -87,5 +87,47 @@
                 "settings": {
                     "foreground": "#a480f3"
                 }
+            },
+            {
+                "name": "JS variable type",
+                "scope": ["storage.type.js"],
+                "settings": {
+                    "foreground": "#f9c0c6"
+                }
+            },
+            {
+                "name": "JS variable declared",
+                "scope": ["variable.other.constant.js"],
+                "settings": {
+                    "foreground": "#EB71B6"
+                }
+            },
+            {
+                "name": "JS Support function",
+                "scope": ["support.function.js"],
+                "settings": {
+                    "foreground": "#f2a68c"
+                }
+            },
+            {
+                "name": "JS Function",
+                "scope": ["storage.type.function.js"],
+                "settings": {
+                    "foreground": "#afa568"
+                }
+            },
+            {
+                "name": "JS Name of function",
+                "scope": ["entity.name.function.js"],
+                "settings": {
+                    "foreground": "#fce89f"
+                }
+            },
+            {
+                "name": "JS return function",
+                "scope": ["keyword.control.flow.js"],
+                "settings": {
+                    "foreground": "#97b99e"
+                }
             }
         }
