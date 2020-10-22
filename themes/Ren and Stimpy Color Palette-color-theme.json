@@ -5,9 +5,8 @@
     "activityBar.activeBorder": "#3E0AAB",
     "activityBarBadge.foreground": "#3E0AAB",
     "activityBar.foreground": "#7436f8",
-    "tab.activeBackground": "#13013a",
     "tab.inactiveBackground": "#04000C",
-    "panelTitle.activeBorder": "#7436f8",
+    "panelTitle.activeBorder":  "#7436f8",
     "gitlens.trailingLineForegroundColor": "#9474da9d",
     "dropdown.background": "#04000cad",
     "editor.background": "#09001C",
@@ -50,7 +49,11 @@
     "tab.inactiveForeground": "#969696",
     "editorGroupHeader.tabsBackground": "#04000C",
     "notifications.background": "#2e0783",
-    "notificationToast.border": "#7436f8"
+    "notificationToast.border": "#7436f8",
+    "editorGutter.modifiedBackground": "#00ffbf",
+    "editorGutter.addedBackground": "#00ffbf",
+    "editorGutter.deletedBackground": "#ff0000",
+    "activityBarBadge.background": "#00ffbf"
   },
   "editor.tokenColorCustomizations": {
     "textMateRules": [
@@ -70,7 +73,7 @@
         "name": "HTML Entity Tag Settings",
         "scope": ["entity.name.tag.html"],
         "settings": {
-          "foreground": "#f0524c"
+          "foreground": "#ec635f"
         }
       },
       {
