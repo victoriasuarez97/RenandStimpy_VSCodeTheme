@@ -207,6 +207,98 @@
         "settings": {
           "foreground": "#e8fca1"
         }
+      },
+      {
+        "name": "[CSS] All selector",
+        "scope":"entity.name.tag.wildcard.css",
+        "settings": {
+          "foreground": "#d2a1ff"
+        }
+      },
+      {
+        "name": "[CSS] Entity tag name",
+        "scope": "entity.name.tag.css",
+        "settings": {
+          "foreground": "#ffae00",
+        }
+      },
+      {
+        "name": "[CSS] Property name",
+        "scope": "support.type.property-name.css",
+        "settings": {
+          "foreground": "#b6fcc7",
+        }
+      },
+      {
+        "name": "[CSS] ID selector",
+        "scope": "entity.other.attribute-name.id.css",
+        "settings": {
+          "foreground": "#e8ffa8"
+        }
+      },
+      {
+        "name": "[CSS] Class selector",
+        "scope" : "entity.other.attribute-name.class.css",
+        "settings": {
+          "foreground": "#80aef3"
+        }
+      },
+      {
+        "name": "[CSS] Property value",
+        "scope": "support.constant.property-value.css",
+        "settings": {
+          "foreground": "#ffbee9"
+        }
+      },
+      {
+        "name": "[CSS] Property number value",
+        "scope": "constant.numeric.css",
+        "settings": {
+          "foreground": "#ffbee9",
+        }
+      },
+      {
+        "name": "[CSS] Units",
+        "scope": [
+          "keyword.other.unit.px.css",
+          "keyword.other.unit.percentage.css",
+          "keyword.other.unit.vh.css",
+          "keyword.other.unit.rem.css",
+          "keyword.other.unit.ms.css",
+          "keyword.other.unit.s.css"
+        ],
+        "settings": {
+          "foreground": "#ffbee9"
+        }
+      },
+      {
+        "name": "[CSS] RGBA Value",
+        "scope": "constant.other.color.rgb-value.hex.css",
+        "settings": {
+          "foreground": "#ffbee9"
+        }
+      },
+      {
+        "name": "[CSS] RGBA tag",
+        "scope": "support.function.misc.css",
+        "settings": {
+          "foreground": "#f864c7",
+        }
+      },
+      {
+        "name": "[CSS] Other value",
+        "scope": "meta.property-value.css",
+        "settings": {
+          "foreground": "#f864c7",
+        }
+      },
+      {
+        "name": "[CSS] Pseudo class",
+        "scope": "entity.other.attribute-name.pseudo-class.css",
+        "settings": {
+          "foreground": "#d2a1ff",
+          "fontStyle": "italic"
+        }
       }
     ]
   },
