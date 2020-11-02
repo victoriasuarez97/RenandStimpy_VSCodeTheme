@@ -105,7 +105,7 @@
           "punctuation.definition.tag.end.html"
         ],
         "settings": {
-          "foreground": "#EB71B6",
+          "foreground": "#ffd0ead3",
           "fontStyle": "italic"
         }
       },
@@ -234,6 +234,35 @@
         "scope": ["variable.other.object.property.js"],
         "settings": {
           "foreground": "#e8fca1"
+        }
+      },
+      {
+        "name": "[JAVASCRIPT] Import value ",
+        "scope": "variable.other.readwrite.alias.js",
+        "settings": {
+          "foreground": "#d897f7",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "name": "[JAVASCRIPT] Import",
+        "scope": "keyword.control.import.js",
+        "settings": {
+          "foreground": "#fe7ed3"
+        }
+      },
+      {
+        "name": "[JAVASCRIPT] From",
+        "scope": "keyword.control.from.js",
+        "settings": {
+          "foreground": "#fe7ed3",
+        }
+      },
+      {
+        "name": "[JAVASCRIPT] Import all",
+        "scope": "constant.language.import-export-all.js",
+        "settings": {
+          "foreground": "#d897f7",
         }
       },
       // CSS Colors
