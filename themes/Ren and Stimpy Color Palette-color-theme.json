@@ -69,6 +69,7 @@
   },
   "editor.tokenColorCustomizations": {
     "textMateRules": [
+      // General
       {
         "name": "Strings",
         "scope": [
@@ -84,7 +85,20 @@
         }
       },
       {
-        "name": "Comment and Punctuation Settings",
+        "name": "Operators",
+        "scope": [
+          "keyword.operator.arithmetic.js",
+          "keyword.operator.comparison.js",
+          "keyword.operator.assignment.js",
+          "keyword.operator.logical.js"
+        ],
+        "settings": {
+          "foreground": "#d2a1ff",
+        }
+      },
+      // HTML Colors
+      {
+        "name": "[HTML] Comment and Punctuation Settings",
         "scope": [
           "comment",
           "punctuation.definition.tag.begin.html",
@@ -95,7 +109,6 @@
           "fontStyle": "italic"
         }
       },
-      // HTML Colors
       {
         "name": "[HTML] Entity Tag Settings",
         "scope": ["entity.name.tag.html"],
