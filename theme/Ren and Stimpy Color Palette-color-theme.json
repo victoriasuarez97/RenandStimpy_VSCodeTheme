@@ -244,14 +244,13 @@
         }
       },
       {
-        "name": "[JAVASCRIPT] ",
+        "name": "[JAVASCRIPT] Arrow function",
         "scope": [
           "variable.other.readwrite.alias.js",
-          "storage.type.function.arrow.js"
+          "storage.type.function.arrow.js",
         ],
         "settings": {
           "foreground": "#d897f7",
-          "fontStyle": "italic"
         }
       },
       {
@@ -270,7 +269,11 @@
       },
       {
         "name": "[JAVASCRIPT] Import all",
-        "scope": "constant.language.import-export-all.js",
+        "scope": [
+          "constant.language.import-export-all.js",
+          "constant.language.boolean.true.js",
+          "constant.language.boolean.false.js"
+        ],
         "settings": {
           "foreground": "#d897f7"
         }
