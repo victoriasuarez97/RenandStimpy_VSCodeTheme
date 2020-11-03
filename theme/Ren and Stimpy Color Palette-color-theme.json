@@ -244,7 +244,7 @@
         }
       },
       {
-        "name": "[JAVASCRIPT] Arrow function",
+        "name": "[JAVASCRIPT] ",
         "scope": [
           "variable.other.readwrite.alias.js",
           "storage.type.function.arrow.js",
@@ -314,42 +314,42 @@
         "name": "[CSS] Entity tag name",
         "scope": "entity.name.tag.css",
         "settings": {
-          "foreground": "#ffae00",
+          "foreground": "#b06c17",
         }
       },
       {
         "name": "[CSS] Property name",
         "scope": "support.type.property-name.css",
         "settings": {
-          "foreground": "#b6fcc7",
+          "foreground": "#f9ea83",
         }
       },
       {
         "name": "[CSS] ID selector",
         "scope": "entity.other.attribute-name.id.css",
         "settings": {
-          "foreground": "#e8ffa8"
+          "foreground": "#a72406"
         }
       },
       {
         "name": "[CSS] Class selector",
         "scope" : "entity.other.attribute-name.class.css",
         "settings": {
-          "foreground": "#80aef3"
+          "foreground": "#818eb8"
         }
       },
       {
         "name": "[CSS] Property value",
-        "scope": "support.constant.property-value.css",
+        "scope": [
+          "support.constant.property-value.css",
+          "constant.numeric.css",
+          "string.quoted.single.css",
+          "string.quoted.double.css",
+          "punctuation.definition.string.begin.css",
+          "punctuation.definition.string.end.css"
+        ],
         "settings": {
-          "foreground": "#ffbee9"
-        }
-      },
-      {
-        "name": "[CSS] Property number value",
-        "scope": "constant.numeric.css",
-        "settings": {
-          "foreground": "#ffbee9",
+          "foreground": "#cab49d"
         }
       },
       {
@@ -363,35 +363,31 @@
           "keyword.other.unit.s.css"
         ],
         "settings": {
-          "foreground": "#ffbee9"
+          "foreground": "#cab49d"
         }
       },
       {
         "name": "[CSS] RGBA Value",
-        "scope": "constant.other.color.rgb-value.hex.css",
+        "scope": [
+          "constant.other.color.rgb-value.hex.css",
+          "support.function.misc.css"
+        ],
         "settings": {
-          "foreground": "#ffbee9"
-        }
-      },
-      {
-        "name": "[CSS] RGBA tag",
-        "scope": "support.function.misc.css",
-        "settings": {
-          "foreground": "#f864c7",
+          "foreground": "#cab49d"
         }
       },
       {
         "name": "[CSS] Other value",
         "scope": "meta.property-value.css",
         "settings": {
-          "foreground": "#f864c7",
+          "foreground": "#d4a36d",
         }
       },
       {
         "name": "[CSS] Pseudo class",
         "scope": "entity.other.attribute-name.pseudo-class.css",
         "settings": {
-          "foreground": "#d2a1ff",
+          "foreground": "#fcf0b6",
           "fontStyle": "italic"
         }
       }
