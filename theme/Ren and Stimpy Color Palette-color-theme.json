@@ -152,7 +152,11 @@
       },
       {
         "name": "[JAVASCRIPT] Variable type",
-        "scope": ["storage.type.js"],
+        "scope": [
+          "storage.type.js",
+          "support.class.component.js",
+          "entity.name.tag.js"
+        ],
         "settings": {
           "foreground": "#f9c0c6"
         }
@@ -166,9 +170,12 @@
       },
       {
         "name": "[JAVASCRIPT] Support function",
-        "scope": ["support.function.js"],
+        "scope": [
+          "support.function.js",
+          "keyword.control.export.js"
+        ],
         "settings": {
-          "foreground": "#f2a68c"
+          "foreground": "#e6d0c5"
         }
       },
       {
@@ -183,7 +190,7 @@
         "name": "[JAVASCRIPT] Name of function",
         "scope": ["entity.name.function.js"],
         "settings": {
-          "foreground": "#fce89f"
+          "foreground": "#e4d4c5"
         }
       },
       {
@@ -197,7 +204,7 @@
         "name": "[JAVASCRIPT] Module export",
         "scope": ["support.type.object.module.js"],
         "settings": {
-          "foreground": "#A21511",
+          "foreground": "#9c714f",
         }
       },
       {
@@ -212,7 +219,7 @@
         "name": "[JAVASCRIPT] Variable other",
         "scope": ["variable.other.object.js"],
         "settings": {
-          "foreground": "#b3d3f9"
+          "foreground": "#bf9e8d"
         }
       },
       {
@@ -233,12 +240,15 @@
         "name": "[JAVASCRIPT] Variable other object property ",
         "scope": ["variable.other.object.property.js"],
         "settings": {
-          "foreground": "#e8fca1"
+          "foreground": "#925870"
         }
       },
       {
-        "name": "[JAVASCRIPT] Import value ",
-        "scope": "variable.other.readwrite.alias.js",
+        "name": "[JAVASCRIPT] ",
+        "scope": [
+          "variable.other.readwrite.alias.js",
+          "storage.type.function.arrow.js"
+        ],
         "settings": {
           "foreground": "#d897f7",
           "fontStyle": "italic"
@@ -255,14 +265,38 @@
         "name": "[JAVASCRIPT] From",
         "scope": "keyword.control.from.js",
         "settings": {
-          "foreground": "#fe7ed3",
+          "foreground": "#fe7ed3"
         }
       },
       {
         "name": "[JAVASCRIPT] Import all",
         "scope": "constant.language.import-export-all.js",
         "settings": {
-          "foreground": "#d897f7",
+          "foreground": "#d897f7"
+        }
+      },
+      {
+        "name": "[JAVASCRIPT] Strings and punctuation",
+        "scope": [
+          "string.quoted.single.js",
+          "string.quoted.double.js",
+          "string.template.js",
+          "punctuation.definition.template-expression.begin.js",
+          "punctuation.definition.template-expression.end.js",
+          "punctuation.definition.string.template.end.js",
+          "punctuation.definition.string.template.begin.js",
+          "punctuation.definition.string.begin.js",
+          "punctuation.definition.string.end.js"
+        ],
+        "settings": {
+          "foreground": "#a4a3b3"
+        }
+      },
+      {
+        "name": "[JAVASCRIPT] Conditionals",
+        "scope": "keyword.control.conditional.js",
+        "settings": {
+          "foreground": "#c2817f",
         }
       },
       // CSS Colors
