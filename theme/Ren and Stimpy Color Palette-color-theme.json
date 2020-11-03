@@ -126,7 +126,7 @@
       },
       // JSON Colors
       {
-        "name": "[JSON] variable type",
+        "name": "[JSON] Variable type",
         "scope": ["meta.var.expr.js"],
         "settings": {
           "foreground": "#F0E0C0"
@@ -244,7 +244,7 @@
         }
       },
       {
-        "name": "[JAVASCRIPT] ",
+        "name": "[JAVASCRIPT] Arrow function",
         "scope": [
           "variable.other.readwrite.alias.js",
           "storage.type.function.arrow.js",
@@ -268,7 +268,7 @@
         }
       },
       {
-        "name": "[JAVASCRIPT] Import all",
+        "name": "[JAVASCRIPT] Import all and Booleans",
         "scope": [
           "constant.language.import-export-all.js",
           "constant.language.boolean.true.js",
