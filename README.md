@@ -1,4 +1,4 @@
-# 📺 Ren & Stimpy Show | Visual Studio Code Theme
+# Ren & Stimpy Show 📺 | Visual Studio Code Theme
 
 Visual Studio Code theme inspired on *Ren & Stimpy Show* color palette.
 
@@ -10,6 +10,20 @@ Actually, why not? I have been thinking about doing a Visual Studio Code theme f
 
 So here it is! Hope you enjoy it 😊✨
 
-## Color choices
+## Color choices 🎨
 
 So, here is the thing. I said that I wanted to follow some color palette but.. after I decided that I would do that, I didn't know where to start. I had seen that Ren & Stimpy colors are pretty much always the same ones. So to make it a little more entertaining, I decided to use a color palette from a particular character from the show, per language.
+
+*DISCLAIMER*: Colors have been added to only for **HTML**, **CSS**, **JAVASCRIPT** (+ **XML**, **MARKDOWN**). Frameworks: **React**. 
+
+### HTML
+
+<img src="./img/Stimpy.png" width="150px">
+
+### CSS
+
+<img src ="./img/MrToastMan.png" width="300px">
+
+### Javascript
+
+<img src="./img/Ren.png" width="150px">
