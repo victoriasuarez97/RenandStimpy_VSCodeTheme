@@ -363,7 +363,8 @@
           "keyword.other.unit.vh.css",
           "keyword.other.unit.rem.css",
           "keyword.other.unit.ms.css",
-          "keyword.other.unit.s.css"
+          "keyword.other.unit.s.css",
+          "keyword.other.unit.deg.css"
         ],
         "settings": {
           "foreground": "#cab49d"
@@ -392,6 +393,27 @@
         "settings": {
           "foreground": "#fcf0b6",
           "fontStyle": "italic"
+        }
+      },
+      {
+        "name": "[CSS] Keyframes",
+        "scope": "keyword.control.at-rule.keyframes.css",
+        "settings": {
+          "foreground": "#e45b3c"
+        }
+      },
+      {
+        "name": "[CSS] Keyframes variable name",
+        "scope": "variable.parameter.keyframe-list.css",
+        "settings": {
+          "foreground":"#ff957d",
+        }
+      },
+      {
+        "name": "[CSS] Keyframes From && To",
+        "scope": "entity.other.keyframe-offset.css",
+        "settings": {
+          "foreground": "#818eb8",
         }
       },
       // XML Colors
