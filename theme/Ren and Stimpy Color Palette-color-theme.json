@@ -319,7 +319,10 @@
       },
       {
         "name": "[CSS] Property name",
-        "scope": "support.type.property-name.css",
+        "scope": [
+          "support.type.property-name.css",
+          "support.type.vendored.property-name.css"
+        ],
         "settings": {
           "foreground": "#f9ea83",
         }
@@ -389,6 +392,21 @@
         "settings": {
           "foreground": "#fcf0b6",
           "fontStyle": "italic"
+        }
+      },
+      // XML Colors
+      {
+        "name": "[XML] Tag name",
+        "scope": "entity.name.tag.localname.xml",
+        "settings": {
+          "foreground": "#ec635f"
+        }
+      },
+      {
+        "name": "[XML] Attributes",
+        "scope": "entity.other.attribute-name.localname.xml",
+        "settings": {
+          "foreground": "#F0E0C0"
         }
       }
     ]
