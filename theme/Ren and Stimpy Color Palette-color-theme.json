@@ -250,7 +250,7 @@
           "storage.type.function.arrow.js",
         ],
         "settings": {
-          "foreground": "#d897f7",
+          "foreground": "#d897f7"
         }
       },
       {
@@ -299,7 +299,7 @@
         "name": "[JAVASCRIPT] Conditionals",
         "scope": "keyword.control.conditional.js",
         "settings": {
-          "foreground": "#c2817f",
+          "foreground": "#c2817f"
         }
       },
       // CSS Colors
@@ -314,7 +314,7 @@
         "name": "[CSS] Entity tag name",
         "scope": "entity.name.tag.css",
         "settings": {
-          "foreground": "#b06c17",
+          "foreground": "#b06c17"
         }
       },
       {
@@ -324,7 +324,7 @@
           "support.type.vendored.property-name.css"
         ],
         "settings": {
-          "foreground": "#f9ea83",
+          "foreground": "#f9ea83"
         }
       },
       {
@@ -383,7 +383,7 @@
         "name": "[CSS] Other value",
         "scope": "meta.property-value.css",
         "settings": {
-          "foreground": "#d4a36d",
+          "foreground": "#d4a36d"
         }
       },
       {
@@ -407,6 +407,47 @@
         "scope": "entity.other.attribute-name.localname.xml",
         "settings": {
           "foreground": "#F0E0C0"
+        }
+      },
+      // Markdown
+      {
+        "name": "[MARKDOWN] Title section",
+        "scope": [
+          "entity.name.section.markdown",
+          "punctuation.definition.heading.markdown"
+        ],
+        "settings": {
+          "foreground": "#fe7ed3",
+          "fontStyle": "italic underline"
+        }
+      },
+      {
+        "name": "[MARKDOWN] Text in brackets",
+        "scope": "string.other.link.title.markdown",
+        "settings": {
+          "foreground": "#fab1f6"
+        }
+      },
+      {
+        "name": "[MARKDOWN] Text in backticks",
+        "scope": "markup.inline.raw.string.markdown",
+        "settings": {
+          "fontStyle": "italic",
+          "foreground": "#fab1f6"
+        }
+      },
+      {
+        "name": "[MARKDOWN] Bold text",
+        "scope": "markup.bold.markdown",
+        "settings": {
+          "foreground":"#d897f7"
+        }
+      },
+      {
+        "name": "[MARKDOWN] Links",
+        "scope": "markup.underline.link.markdown",
+        "settings": {
+          "foreground":"#a84ffa"
         }
       }
     ]
