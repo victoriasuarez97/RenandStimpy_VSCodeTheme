@@ -409,7 +409,7 @@
           "foreground": "#F0E0C0"
         }
       },
-      // Markdown
+      // Markdown Colors
       {
         "name": "[MARKDOWN] Title section",
         "scope": [
