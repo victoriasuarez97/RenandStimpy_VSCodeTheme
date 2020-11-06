@@ -18,11 +18,11 @@ So, here is the thing. I said that I wanted to follow some color palette but.. a
 
 ### HTML
 
-<img src="./img/Stimpy.png" width="150px">
+<img src="./img/html.png" width="600px"> <img src="./img/Stimpy.png" width="200px">
 
 ### CSS
 
-<img src ="./img/MrToastMan.png" width="300px">
+<img src="./img/css.png" width="600px"><img src ="./img/MrToastMan.png" width="300px">
 
 ### Javascript
 
