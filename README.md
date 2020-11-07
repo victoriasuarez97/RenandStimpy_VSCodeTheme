@@ -4,6 +4,8 @@ Visual Studio Code theme inspired on *Ren & Stimpy Show* color palette.
 
 <img src="./img/ren_stimpy_show_logo.jpg" alt="Ren and Stimpy show logo">
 
+<img src="./img/theme.png" alt="Theme view">
+
 ## But... Why
 
 Actually, why not? I have been thinking about doing a Visual Studio Code theme for a while now, but I have never decided on which color palette to follow or if I'd just create a palette exclusively for this, until one night, it ocurred to me that maybe I should just follow some color palette from a 90s TV show, and why not *Ren & Stimpy* which has been a great memory from my childhood.
