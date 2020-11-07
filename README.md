@@ -12,18 +12,10 @@ So here it is! Hope you enjoy it 😊✨
 
 ## Color choices 🎨
 
-So, here is the thing. I said that I wanted to follow some color palette but.. after I decided that I would do that, I didn't know where to start. I had seen that Ren & Stimpy colors are pretty much always the same ones. So to make it a little more entertaining, I decided to use a color palette from a particular character from the show, per language.
+So, here is the thing. I said that I wanted to follow some color palette but.. after I decided that I would do that, I didn't know where to start. I had seen that Ren & Stimpy colors are pretty much always the same. So to make it a little more interesting, I decided to use a color palette from a particular character from the show, per language.
+Therefore, I used Stimpy's color palette for HTML, Ren's color palette for Javascript and Mr. Toast Man for CSS.
+Languages were particularly chose to work on a React Project, BUT this is an open source repo so:
 
-**DISCLAIMER**: Colors have been added to only for **HTML**, **CSS**, **JAVASCRIPT** (+ **XML**, **MARKDOWN**). Frameworks: **React**.
+## The Idea
 
-### HTML
-
-<img src="./img/html.png" width="600px"> <img src="./img/Stimpy.png" width="200px">
-
-### CSS
-
-<img src="./img/css.png" width="600px"><img src ="./img/MrToastMan.png" width="300px">
-
-### Javascript
-
-<img src="./img/Ren.png" width="150px">
+If you want to contribute to this _idea_, and choose a particular character and make the palette for another language you want, I dont know... Python, Typescript, C#, Sass, you name it: Please, feel free to do it! ⚡ The more languages we cover, the more people will get to use this theme.
