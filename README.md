@@ -26,4 +26,4 @@ Okay, that's it for now. Enjoy ❤️
 
 Vicky
 <br>
-PS: Please, for any feedback or issues, go to <span><a href="https://github.com/victoriasuarez97/RenandStimpy_VSCodeTheme/issues">Repo Issues</span>
+PS: Please, for any feedback or issues, go to [Repo Issues](https://github.com/victoriasuarez97/RenandStimpy_VSCodeTheme/issues).
