@@ -2,9 +2,9 @@
 
 Visual Studio Code theme inspired on *Ren & Stimpy Show Space Madness* color palette.
 
-<img src="./img/ren_and_stimpy_spacemadness.jpg" alt="Ren and Stimpy Space Madness poster" width="300px">
+![](img/ren_and_stimpy_spacemadness.jpg)
 
-<img src="./img/theme.png" alt="Theme view">
+![](img/theme.png)
 
 ## But... Why
 
