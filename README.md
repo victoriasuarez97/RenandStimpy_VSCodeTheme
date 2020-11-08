@@ -2,9 +2,13 @@
 
 Visual Studio Code theme inspired on *Ren & Stimpy Show Space Madness* color palette.
 
-![](img/ren_and_stimpy_spacemadness.jpg)
-
-![](img/theme.png)
+<a href="https://raw.githubusercontent.com/victoriasuarez97/RenandStimpy_VSCodeTheme/main/img/ren_and_stimpy_spacemadness.jpg" target="_BLANK">
+<img alt="Ren and Stimpy Space Madness poster" src="https://raw.githubusercontent.com/victoriasuarez97/RenandStimpy_VSCodeTheme/main/img/ren_and_stimpy_spacemadness.jpg">
+</a>
+<br>
+<a href="https://raw.githubusercontent.com/victoriasuarez97/RenandStimpy_VSCodeTheme/main/img/theme.png" target="_BLANK">
+<img alt="Theme view" src="https://raw.githubusercontent.com/victoriasuarez97/RenandStimpy_VSCodeTheme/main/img/theme.png">
+</a>
 
 ## But... Why
 
@@ -24,6 +28,4 @@ If you want to contribute to this *idea*, and choose a particular character and 
 
 Okay, that's it for now. Enjoy ❤️
 
-Vicky
-<br>
-PS: Please, for any feedback or issues, go to [Repo Issues](https://github.com/victoriasuarez97/RenandStimpy_VSCodeTheme/issues).
+Please, for any feedback or issues, go to [Repo Issues](https://github.com/victoriasuarez97/RenandStimpy_VSCodeTheme/issues).
