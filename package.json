@@ -17,8 +17,8 @@
   },
   "displayName": "Ren and Stimpy Show: Space Madness Color Palette",
   "name": "ren-and-stimpy-space-madness-vscodetheme",
-  "icon": "renandstimpylogo.jpg",
-  "version": "1.0.2",
+  "icon": "img/ren_and_stimpy_logo.png",
+  "version": "1.0.3",
   "description": "This is a theme created for VSCode using the color palette of TV Show Ren &amp; Stimpy",
   "main": "index.js",
   "scripts": {
