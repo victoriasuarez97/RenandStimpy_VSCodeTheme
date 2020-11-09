@@ -26,6 +26,8 @@ Languages were particularly chosen to work on a React Project, BUT this is an op
 
 If you want to contribute to this *idea*, and choose a particular character and make the palette for another language you want, I dont know... Python, Typescript, C#, Sass, you name it: Please, feel free to do it! ⚡ The more languages we cover, the more people will get to use this theme.
 
+[I want to contribute!](https://github.com/victoriasuarez97/RenandStimpy_VSCodeTheme/blob/main/contributing.md)
+
 Okay, that's it for now. Enjoy ❤️
 
 Please, for any feedback or issues, go to [Repo Issues](https://github.com/victoriasuarez97/RenandStimpy_VSCodeTheme/issues).
