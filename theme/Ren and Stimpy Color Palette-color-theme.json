@@ -1,7 +1,8 @@
 
 {
-  "workbench.colorCustomizations": {
-    // Activity bar
+  "name": "Ren and Stimpy: Space Madness",
+  "type": "Dark",
+  "colors": {
     "activityBar.background": "#09001C",
     "activityBar.activeFocusBorder": "#3E0AAB",
     "activityBar.activeBorder": "#3E0AAB",
@@ -67,8 +68,7 @@
     // Gitlens
     "gitlens.trailingLineForegroundColor": "#9474da9d",
   },
-  "editor.tokenColorCustomizations": {
-    "textMateRules": [
+    "tokenColors": [
       // General
       {
         "name": "Strings",
@@ -472,6 +472,5 @@
           "foreground":"#a84ffa"
         }
       }
-    ]
-  },
+    ],
 }
