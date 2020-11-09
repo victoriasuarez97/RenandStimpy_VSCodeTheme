@@ -1,7 +1,7 @@
 
 {
   "name": "Ren and Stimpy: Space Madness",
-  "type": "Dark",
+  "type": "dark",
   "colors": {
     "activityBar.background": "#09001C",
     "activityBar.activeFocusBorder": "#3E0AAB",
