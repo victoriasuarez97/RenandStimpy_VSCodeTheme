@@ -9,29 +9,23 @@
     "activityBarBadge.foreground": "#3E0AAB",
     "activityBar.foreground": "#7436f8",
     "activityBarBadge.background": "#00ffbf",
-    // Tab
     "tab.inactiveBackground": "#04000C",
     "panelTitle.activeBorder": "#7436f8",
     "tab.activeBorder": "#7436f8",
     "tab.inactiveForeground": "#969696",
     "editorGroupHeader.tabsBackground": "#04000C",
-    // Editor
     "editor.background": "#09001C",
     "editor.selectionBackground": "#9474da75",
     "editorGutter.modifiedBackground": "#00ffbf",
     "editorGutter.addedBackground": "#00ffbf",
-    // Navigation Menu
     "titleBar.activeBackground": "#09001C",
     "menu.background": "#3E0AAB",
     "menu.selectionBackground":"#280969",
     "menubar.selectionBackground": "#6d3ecc81",
-    // Sidebar
     "sideBar.background": "#04000C",
     "sideBarSectionHeader.background": "#09001C",
-    // Status bar
     "statusBar.background": "#2968C7",
     "statusBarItem.hoverBackground": "#20529e",
-    // Inputs, Buttons && Dropdowns
     "input.border": "#7436f8",
     "input.background": "#190347",
     "panelInput.border": "#7436f8",
@@ -47,29 +41,23 @@
     "list.inactiveSelectionBackground": "#3d0aab65",
     "list.focusBackground": "#3d0aab65",
     "list.highlightForeground":"#966df0",
-    // Notifications
     "errorForeground": "#972c2c",
     "icon.foreground": "#966df0",
     "notificationsInfoIcon.foreground":"#2968C7",
     "notifications.background": "#2e0783",
     "notificationToast.border": "#7436f8",
-    // Minimap
     "minimap.background": "#09001C",
     "minimapSlider.hoverBackground": "#512f9681",
     "minimapSlider.activeBackground": "#512f9681",
     "minimap.selectionHighlight": "#512f9681",
-    // Scrollbar
     "scrollbarSlider.activeBackground": "#512f9681",
     "scrollbarSlider.background": "#512f9681",
     "scrollbarSlider.hoverBackground": "#6d3ecc81",
-    // Terminal
     "terminal.foreground": "#d6c6fc",
     "terminal.background": "#09001C",
-    // Gitlens
-    "gitlens.trailingLineForegroundColor": "#9474da9d",
+    "gitlens.trailingLineForegroundColor": "#9474da9d"
   },
     "tokenColors": [
-      // General
       {
         "name": "Strings",
         "scope": [
@@ -93,10 +81,9 @@
           "keyword.operator.logical.js"
         ],
         "settings": {
-          "foreground": "#d2a1ff",
+          "foreground": "#d2a1ff"
         }
       },
-      // HTML Colors
       {
         "name": "[HTML] Comment and Punctuation Settings",
         "scope": [
@@ -124,7 +111,6 @@
           "fontStyle": "italic"
         }
       },
-      // JSON Colors
       {
         "name": "[JSON] Variable type",
         "scope": ["meta.var.expr.js"],
@@ -142,7 +128,6 @@
           "foreground": "#a480f3"
         }
       },
-      // Javascript Colors
       {
         "name": "[JAVASCRIPT] Type",
         "scope": ["storage.type.js"],
@@ -204,7 +189,7 @@
         "name": "[JAVASCRIPT] Module export",
         "scope": ["support.type.object.module.js"],
         "settings": {
-          "foreground": "#9c714f",
+          "foreground": "#9c714f"
         }
       },
       {
@@ -247,7 +232,7 @@
         "name": "[JAVASCRIPT] Arrow function",
         "scope": [
           "variable.other.readwrite.alias.js",
-          "storage.type.function.arrow.js",
+          "storage.type.function.arrow.js"
         ],
         "settings": {
           "foreground": "#d897f7"
@@ -302,7 +287,6 @@
           "foreground": "#c2817f"
         }
       },
-      // CSS Colors
       {
         "name": "[CSS] All selector",
         "scope":"entity.name.tag.wildcard.css",
@@ -406,17 +390,16 @@
         "name": "[CSS] Keyframes variable name",
         "scope": "variable.parameter.keyframe-list.css",
         "settings": {
-          "foreground":"#ff957d",
+          "foreground":"#ff957d"
         }
       },
       {
         "name": "[CSS] Keyframes From && To",
         "scope": "entity.other.keyframe-offset.css",
         "settings": {
-          "foreground": "#818eb8",
+          "foreground": "#818eb8"
         }
       },
-      // XML Colors
       {
         "name": "[XML] Tag name",
         "scope": "entity.name.tag.localname.xml",
@@ -431,7 +414,6 @@
           "foreground": "#F0E0C0"
         }
       },
-      // Markdown Colors
       {
         "name": "[MARKDOWN] Title section",
         "scope": [
@@ -472,5 +454,5 @@
           "foreground":"#a84ffa"
         }
       }
-    ],
+    ]
 }

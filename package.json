@@ -3,6 +3,14 @@
   "engines": {
     "vscode": "^1.0.0"
   },
+  "keywords": [
+    "ren and stimpy",
+    "theme",
+    "color theme",
+    "90s",
+    "retro",
+    "galaxy theme"
+  ],
   "categories": [
     "Themes"
   ],
@@ -11,15 +19,15 @@
       {
         "label": "Ren and Stimpy color palette",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ren and Stimpy Color Palette-color-theme.json"
+        "path": "./themes/ren-and-stimpy-space-madness-vscodetheme.json"
       }
     ]
   },
   "displayName": "Ren and Stimpy Show: Space Madness Color Palette",
   "name": "ren-and-stimpy-space-madness-vscodetheme",
   "icon": "img/ren_and_stimpy_logo.png",
-  "version": "1.0.7",
-  "description": "This is a theme created for VSCode using the color palette of TV Show Ren &amp; Stimpy",
+  "version": "1.0.8",
+  "description": "This is a theme created for VSCode using the color palette of TV Show Ren and Stimpy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -28,7 +36,6 @@
     "type": "git",
     "url": "https://github.com/victoriasuarez97/RenandStimpy_VSCodeTheme"
   },
-  "keywords": [],
   "author": "Victoria Stefania Suarez",
   "license": "MIT",
   "bugs": {
