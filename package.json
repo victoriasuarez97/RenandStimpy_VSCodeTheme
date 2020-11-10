@@ -1,7 +1,7 @@
 {
   "publisher": "victoriasuarez97",
   "engines": {
-    "vscode": "^1.0.0"
+    "vscode": "^1.51.0"
   },
   "keywords": [
     "ren and stimpy",
@@ -26,18 +26,15 @@
   "displayName": "Ren and Stimpy Show: Space Madness Color Palette",
   "name": "ren-and-stimpy-space-madness-vscodetheme",
   "icon": "img/ren_and_stimpy_logo.png",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "This is a theme created for VSCode using the color palette of TV Show Ren and Stimpy",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "author": "Victoria Stefania Suarez",
+  "url": "https://github.com/victoriasuarez97",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/victoriasuarez97/RenandStimpy_VSCodeTheme"
   },
-  "author": "Victoria Stefania Suarez",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/victoriasuarez97/RenandStimpy_VSCodeTheme/issues"
   },
