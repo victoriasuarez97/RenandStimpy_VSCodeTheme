@@ -4,7 +4,7 @@ So, if you liked the idea and want to add color customizations for a language th
 
 ## How to
 
-First of all, clone the repo. Once you got it cloned, open your Visual Studio Code and go to the *theme*>*ren-and-stimpy-space-madness-vscodetheme.json* file and add the colors you want to add.
+First of all, clone the repo. Once you got it cloned, open your Visual Studio Code and go to you *settings.json* file to add your new settings and see them reflected on you vscode. Once you are finished, go to *theme*>*ren-and-stimpy-space-madness-vscodetheme.json* and paste the new colors you added from your settings.json file.
 When you are done adding your magic, you can open a PR so I can check it out and publish it on the Marketplace to share your changes with everyone ✨
 
 **DISCLAIMER:** If you dont want to share your changes but you don't like something, you can change it on your own *settings.json* file with this theme installed.
